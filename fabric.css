@@ -8933,6 +8933,13 @@ button.picker__close:focus {
     font-style: italic;
     font-weight: 700
 }
+html {
+    font: 100%/1.5 "Salesforce Sans",Arial,sans-serif;
+    background: #fff;
+    color: #16325c;
+    -webkit-tap-highlight-color: transparent;
+}
+
 body {
     font-size: .875rem;
     background: 0 0;
